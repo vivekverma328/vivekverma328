@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Verma</h1>
-<h3 align="center">Master's Student at Indian Institute Of Technology (IIT) Guwahati, Assam</h3>
+<h3 align="center">IIT Guwahati M.Tech Graduate | Delivery Data Scientist at Turing</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivekverma328](https://github.com/vivekverma328)
 
